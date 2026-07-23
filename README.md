@@ -52,7 +52,7 @@ My goal is to continuously develop my expertise in cybersecurity, apply my knowl
 ---
 
 
-## ☀️ Education → Wings Unfolding
+## ☀️ Education
 
 | | Course | Status |
 |:---:|:---|:---:|
