@@ -57,9 +57,8 @@ My goal is to continuously develop my expertise in cybersecurity, apply my knowl
 | | Course | Status |
 |:---:|:---|:---:|
 | ◈ | Google Cybersecurity | ✅ Complete! |
-| ◈ | -| 🔄 Waiting... |
-| ◈ | -| 🔄 Waiting... |
-| ◈ | -| 🔄 Waiting... |
+| ◈ | Security + | 🔄 Waiting... |
+| ◈ | CISSP | 🔄 Waiting... |
 
 ---
 
